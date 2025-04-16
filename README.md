@@ -10,6 +10,7 @@ ROC-AUC: 86 % ]
 
 A powerful model for improving water safety analysis! 💧
 
+Orange: drinkable , Blue: not drinkable 
 <img src="Project Screenshot.png">
 
 
