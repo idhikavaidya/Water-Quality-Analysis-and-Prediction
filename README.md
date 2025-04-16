@@ -10,6 +10,6 @@ ROC-AUC: 86 % ]
 
 A powerful model for improving water safety analysis! 💧
 
-<img src=" Project Screenshot.jpg ">
+<img src="Project Screenshot.jpg">
 
 
