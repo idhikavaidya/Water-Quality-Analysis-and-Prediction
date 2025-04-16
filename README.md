@@ -10,7 +10,7 @@ ROC-AUC: 86 % ]
 
 A powerful model for improving water safety analysis! 💧
 
-Pairplot for Water Quality Analysis 
+Pairplot for Water Quality Analysis: 
 
 Data Points: 
 - Orange: drinkable 
